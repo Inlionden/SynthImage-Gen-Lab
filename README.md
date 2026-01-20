@@ -69,3 +69,5 @@ They are trained simultaneously in a zero-sum game. Over time, the generator bec
 
 ```bash
 pip install torch torchvision matplotlib
+
+# auto-commit
